@@ -1,16 +1,14 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**Starangell/Starangell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>HELLO WORD<h1>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ <img align="center" alt="HTML" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg"> **ESTUDANDO JAVA☕**
+
+<div>
+  <a href="https://github.com/thisiscleverson">
+  <img height="250" width="1000" src="https://github-readme-stats.vercel.app/api?username=Starangell&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  
+
+</div>
